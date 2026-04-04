@@ -137,6 +137,3 @@ Predictions from the models are exported to CSV and visualised in **Tableau Desk
 
 ---
 
-## 📄 License
-
-This project is submitted as part of an academic research programme at the National College of Ireland. All data is sourced from publicly available humanitarian datasets.
