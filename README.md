@@ -1,12 +1,5 @@
 # 🍽️ Hunger Hotspots Prediction
 ### Evaluating the Effectiveness of Data-Driven Prediction for Early Crisis Identification
-
-> MSc Research Project — MSc in Data Analytics  
-> **Author:** Dnyanesh Mohan Bhonde (x23270802)  
-> **Supervisor:** Rejwanul Haque  
-> **Institution:** National College of Ireland, School of Computing  
-> **Submitted:** August 2025
-
 ---
 
 ## 📌 Project Overview
